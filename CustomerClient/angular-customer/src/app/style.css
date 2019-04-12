@@ -1,0 +1,50 @@
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+li:hover{
+    background-color: gray;
+    color: white;
+    font-weight: bolder;
+    font-size : 22px;
+    width: 240px;
+    text-align: center;
+}
+
+li{
+    width: 120px;
+    cursor: pointer;
+}
+
+h1{
+    color: darkblue;
+    text-decoration: underline blue;
+}
+
+h2{
+    text-align: left;
+    color: darkblue;
+    text-decoration: underline blue;
+}
+
+div{
+   background-color: lightgray; 
+   text-align: left;
+   padding: 2.5px;
+}
+
+.detail{
+    background-color: darkgray;
+    border-style: solid;
+    border-color: lightblue;
+    margin: 10px;
+}
+
+.detail div{
+    border-style: solid ;
+    margin: 1px;
+    border-color: whitesmoke;
+    overflow: auto;
+    padding: 1px;
+}

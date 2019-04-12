@@ -1,1 +1,1 @@
-# Cqrs_Learning_Customer
+# CQRS learning projects 
